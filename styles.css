@@ -2,6 +2,10 @@
 .table-heading{
 	text-align:center;
 }
+td{
+	width:100px;
+	height:20px;
+}
 .left{
 	text-align:left;
 	width:25vh;
@@ -17,4 +21,25 @@
 }
 .toprow{
 	width:100vh;
+
+}
+.green {
+	width:600px;
+	background-color:green;
+	
+}
+.blue{
+	background-color:blue;
+}
+.img{
+	height:100px;
+	display:flex;
+	justify-content:space-evenly;
+	
+}
+.img-1{
+	width:50vw;
+	height:100px;
+	
+	
 }
